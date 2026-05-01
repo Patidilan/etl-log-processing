@@ -1,0 +1,4 @@
+INFO User login success
+ERROR Failed login attempt
+INFO File uploaded
+ERROR Connection timeout
